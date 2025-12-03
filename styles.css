@@ -162,3 +162,7 @@ button a {
   margin-left:10px;
   box-shadow:10px 10px 30px rgb(179, 175, 175);
 }
+.summary
+{
+  padding-left: 40%;
+}
