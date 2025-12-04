@@ -164,13 +164,17 @@ button a {
 }
 .summary
 {
-  padding-left: 40%;
+  margin-top: 20px;
+  padding-left: 35%;
 }
 .resume
 {
   display: flex;
   gap: 15px;
-  margin: 100px;
+  margin-top: 60px;
+  margin-bottom: 60px ;
+  margin-left:100px ;
+  margin-right: 100px;
 
 }
 
@@ -182,4 +186,26 @@ button a {
 .light
 {
   color: #555;
+}
+.mid
+{
+  margin-left: 45%;
+ 
+}
+.footer
+{
+   display:flex;
+   background-color: #FFF8F3;
+ 
+   justify-content: space-around;
+   padding: 100px;
+}
+.inp 
+{
+  margin-top: 10px;
+  padding-right: 70px;
+}
+.inpt 
+{
+  margin-top: 10px;
 }
