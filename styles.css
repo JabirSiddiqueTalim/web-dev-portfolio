@@ -166,3 +166,20 @@ button a {
 {
   padding-left: 40%;
 }
+.resume
+{
+  display: flex;
+  gap: 15px;
+  margin: 100px;
+
+}
+
+.data>p
+{
+  color: #aea9a5;
+}
+
+.light
+{
+  color: #555;
+}
